@@ -1,12 +1,8 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
+# Genius - AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe 
 
-![Copy of Copy of Copy of Fullstack Twitter Clone](https://github.com/AntonioErdeljac/next13-ai-saas/assets/23248726/c47e604a-b50b-4eb0-b420-fda20908f522)
+## Demo
 
-
-
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ffJ38dBzrlY)
+You can see a live demo of the Genius   [Genius](https://genius-nu-five.vercel.app/dashboard)
 
 Features:
 
